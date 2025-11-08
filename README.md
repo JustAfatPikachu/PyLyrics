@@ -29,7 +29,7 @@ A Python script that fetches song lyrics from Genius and displays them in a type
 
 ```bash
 git clone https://github.com/JustAFatPikachu/PyLyrics.git
-cd <repo-name>
+cd PyLyrics
 ```
 
 2. Install dependencies:
